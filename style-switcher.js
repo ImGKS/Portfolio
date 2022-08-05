@@ -1,3 +1,10 @@
+var typed=new Typed(".typing", {
+    strings : ["","Mechanical Enginner", "Web Developer","Trader","Investor"],
+    typeSpeed : 100,
+    BackSpeed : 60,
+    loop : true
+})
+
 //      toggler style switcher
 const styleSwitcherToggler = document.querySelector(".style-switcher-toggler");
 styleSwitcherToggler.addEventListener("click",()=>{
