@@ -354,7 +354,7 @@ h3.my-profession
     border-bottom: 10px solid var(--skin-color);
     border-right: 10px solid var(--skin-color);
     right: 60px;
-    bottom: -20px;
+    bottom: -10px;
 }
 
 .home-img::before
@@ -366,7 +366,7 @@ h3.my-profession
     border-top: 10px solid var(--skin-color);
     border-left: 10px solid var(--skin-color);
     left: 60px;
-    top: -30px;
+    top: -20px;
 }
 
 .home .home-img img
